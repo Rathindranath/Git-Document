@@ -1,0 +1,19 @@
+1. Why VCS is needed ?
+2. Centralized Vs distributed VCS
+3. Git work flow - working directory, staging area, local repository/version database
+4. Installing git on Windows, Linux and Mac
+5. Basic git operation - init, clone, add, commit
+6. Dignostic git command - git status, git log
+7. Undoing/Reverting/Resetting code changes
+8. Branches - create, merge, delete a branch
+9. Merge conflict
+10. git pull and push
+11. git pull Vs fetch
+12. git stash
+13. What is HEAD ?
+14. git tags - what, why, when and how
+15. .gitignore file
+16. Fork and Pull Request
+17. Merge Vs Rebase
+18. Github repository is down - how to clone project from peer developer/contributor
+19. How to send e-mail from GitHub 
